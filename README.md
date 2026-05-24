@@ -105,7 +105,3 @@ Contributions are welcome. Fork this repo, create a feature branch, and submit a
 ## 📜 License
 
 MIT License. See LICENSE for details.
-
-## 🙏 Credits
-
-Originally based on work by [Amos Meremu Dogiye](https://github.com/Dogiye12). Extended with AI-orchestrated workflow, multi-temporal analysis, and LLM-based restoration recommendations.
